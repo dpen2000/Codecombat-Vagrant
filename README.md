@@ -11,7 +11,7 @@ Running
 -----
 Mongo is running by default in the VM so no extra commands are needed.  
 1. Run ```vagrant up``` to startup VM if needed  
-2. In one administrative command prompt, run ```vagrant ssh -c "cd /coco && brunch watch"```
+2. In one administrative command prompt, run ```vagrant ssh -c "cd /coco && brunch watch"```  
 3. In another administrative command prompt, run ```vagrant ssh -c "cd /coco/bin && ./coco-dev-server"```
 
 Codecombat should now be available at [http://localhost:3000](http://localhost:3000) on your host machine.
