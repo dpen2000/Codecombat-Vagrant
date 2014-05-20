@@ -5,7 +5,7 @@ Setup
 ------
 1. Start an administrative command prompt. This will ensure symlinks will work correctly.  
 2. Run ```vagrant up```  
-3. Run ```vagrant ssh -c "cd /vagrant && ./fillMongo.sh"```
+Running vagrant up creates a VM with CodeCombat fully set up with all the dependencies and restores a up-to-date backup of the live CodeCombat database into your MongoDB instance.  
 
 Running
 -----
