@@ -4,6 +4,7 @@ sudo apt-get -y install python-software-properties git
 sudo add-apt-repository -y ppa:chris-lea/node.js
 sudo apt-get -y update
 sudo apt-get -y install nodejs
+sudo apt-get -y install g++ make coffee
 cd /coco
 sudo npm install
 sudo npm install -g bower
