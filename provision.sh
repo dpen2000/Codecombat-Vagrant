@@ -18,4 +18,4 @@ sudo apt-get -y install ruby1.9.1 ruby1.9.1-dev
 sudo gem install sass
 npm install mongoose
 cd /vagrant
-./fillMongo.sh
+bash ./fillMongo.sh
