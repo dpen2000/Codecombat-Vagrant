@@ -1,5 +1,7 @@
 Codecombat-Vagrant
 ==================
+**IMPORTANT: Please use instructions at https://github.com/codecombat/codecombat/wiki/Dev-Setup:-Vagrant instead of this.**
+
 This vagrantfile allows you to run codecombat in a VM but view site in host OS and edit your files in the host and have these changes picked up by nodemon and brunch in the VM.  
 Setup
 ------
